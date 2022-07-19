@@ -7,4 +7,4 @@ This article analyses the impact of exposure to asylum-seeking migration during 
 
 
 You can find a part of the data that we used here: https://doi.org/10.6084/m9.figshare.19983203.v1
-and the article (to be published soon) here: https://doi.org/10.1080/1369183X.2022.2100543
+and the full article (to be published soon) here: https://doi.org/10.1080/1369183X.2022.2100543
